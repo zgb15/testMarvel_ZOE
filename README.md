@@ -7,3 +7,5 @@
   Cuando el usuario ejecuta el programa, aparecerá la interfaz sin preguntas ni sus respectivas opciones.
   Al pinchar en el botón "cargar contenido", se cargarán las preguntas y sus respuestas desde nuestra BBDD en MySQL. 
   Una vez hemos elegido nuestras respuestas, cuando lo corregimos aparecerá la puntuación y un mensaje dependiendo de la nota obtenida. 
+
+![Image text](https://github.com/zgb15/testMarvel_ZOE/blob/master/00PRUEBAS/testMarvelmd.PNG)
